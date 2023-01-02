@@ -57,3 +57,4 @@ class Rectangle:
             if i != self.height - 1:
                 rect += '\n'
         return rect
+    
